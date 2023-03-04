@@ -1,7 +1,7 @@
 body {
-     font-family: 'Roboto', sans-serif ;
-     font-style: normal;
-    color:#434455;
+ font-family: 'Roboto', sans-serif ;
+ font-style: normal;
+color:#434455;
 }
 
 .link {
@@ -65,13 +65,13 @@ color: #434455;
 .hero-tittle {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07;
+line-height:1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #FFFFFF;
 }
 .btn-hero {
-font-family: 'Roboto',sans-serif;
+font-family:'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;

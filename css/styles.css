@@ -1,3 +1,172 @@
 body {
-    color: blue;
+     font-family: 'Roboto', sans-serif ;
+     font-style: normal;
+    color:black;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
+.web {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 24px;
+color: #4D5AE5;
+}
+
+.studio {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 24px;
+color: #2E2F42;
+}
+
+.header-link {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.header-mail {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.header-tel {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+.hero-tittle {
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+.btn-hero {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+}
+
+.btn-hero:is(:hover, :focus){
+background-color: #4D5AE5;;
+}
+
+.strat-tittle {
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.strat-p {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.what-tittle {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+color: #2E2F42;
+}
+
+.team-tittle {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+color: #2E2F42;
+}
+
+.team-name {
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #2E2F42;
+}
+
+.team-p {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #434455;
+}
+ 
+.footer {
+background-color: #2E2F42;
+}
+
+.footer-p {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #E7E9FC;
+}
+
+.portfolio-btn {
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #4D5AE5;
+}
+
+.portfolio-btn:is(:hover, :focus) {
+color: #F4F4FD;
+background-color: #404BBF;
+}
+
+.portfolio-text {
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #2E2F42;
+}
+
+.portfolio-p {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
 }

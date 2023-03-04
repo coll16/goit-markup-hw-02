@@ -69,6 +69,13 @@ font-style: normal
   color: #434455;
 }
 
+.header-nav:hover {
+    color:#404bbf
+}
+
+.header-nav:focus {
+    color:#404bbf
+}
 
 .hero {
   background-color: #2e2f42;

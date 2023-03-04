@@ -70,11 +70,11 @@ font-style: normal
 }
 
 .header-nav:hover {
-    color:#404bbf
+    color: #404bbf 
 }
 
 .header-nav:focus {
-    color:#404bbf
+    color: #404bbf
 }
 
 .hero {

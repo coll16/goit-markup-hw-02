@@ -1,211 +1,205 @@
 body {
- font-family: 'Roboto', sans-serif ;
- font-style: normal;
-color:#434455;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  color: #434455;
 }
 
 .link {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .list {
-    list-style: none;
+  list-style: none;
 }
 
 .header {
-    font-style: normal
-
+  font-style: normal;
 }
 
-
-
 .logo {
-    font-family:"Raleway",sans-serif;
-    font-style:normal;
-    font-weight:800;
-    font-size:18px;
-    line-height:1.17;
-    letter-spacing:0.03em;
-    text-transform:uppercase;
-    color:#4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .studio {
-font-family: "Raleway",sans-serif;
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
 }
 
 .header-link {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #2E2F42;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .header-link:hover {
-color: #404bbf; 
-
+  color: #404bbf;
 }
 
 .header-link:focus {
-color: #404bbf; 
-   }
-
-
+  color: #404bbf;
+}
 
 .header-mail {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .header-tel {
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .hero {
-    background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 .hero-tittle {
-font-weight: 700;
-font-size: 56px;
-line-height:1.07;
-letter-spacing: 0.02em;
-text-align: center;
-color: #FFFFFF;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
 }
 .btn-hero {
-font-family:'Roboto',sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-display: flex;
-align-items: center;
-letter-spacing: 0.04em;
-cursor: pointer;
-color: #FFFFFF;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  color: #ffffff;
 }
 
-.btn-hero:is(:hover, :focus){
-background-color: #4D5AE5;;
+.btn-hero:is(:hover, :focus) {
+  background-color: #4d5ae5;
 }
 
 .strat-tittle {
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .strat-p {
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .what-tittle {
-font-family:'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-letter-spacing: 0.02em;
-text-align: center;
-text-transform: capitalize;
-color: #2E2F42;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .team-tittle {
-font-weight: 700;
-font-size: 36px;
-line-height:1.11;
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-color: #2E2F42;
-}    
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 
 .team-name {
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .team-p {
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
- 
+
 .footer {
-background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 
 .footer-p {
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-color: #E7E9FC;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #e7e9fc;
 }
 
 .portfolio-btn {
-font-weight: 500;
-font-size: 16px;
-line-height: 24px;
-font-family:"Roboto",sans-serif;
-letter-spacing:0.04em;
-cursor:pointer;
-color: #4D5AE5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  color: #4d5ae5;
 }
 
 .portfolio-btn:is(:hover, :focus) {
-color: #F4F4FD;
-background-color: #404BBF;
+  color: #f4f4fd;
+  background-color: #404bbf;
 }
 
 .portfolio-text {
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-letter-spacing:0.02em;
-color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .portfolio-p {
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing:0.02em;
-color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .meditation-tittle {
-    letter-spacing: 0.02em;
+  letter-spacing: 0.02em;
 }

@@ -11,6 +11,11 @@ color:#434455;
 .list {
     list-style: none;
 }
+
+.header {
+    font-style: normal
+}
+
 .logo {
     font-family:"Raleway",sans-serif;
     font-style:normal;

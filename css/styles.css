@@ -13,7 +13,11 @@ body {
 }
 
 .header {
-font-style:normal
+font-style: normal
+}
+
+.nav-list {
+    font-style: normal
 }
 
 .logo {

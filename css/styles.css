@@ -35,7 +35,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--2e2f42);
+  color: var(--background-dark);
 }
 
 .header-link {

@@ -31,7 +31,6 @@ color:#434455;
 }
 
 .studio {
-color: var(--color-navy-blue);
 font-family:"Raleway",sans-serif;
 font-style:normal;
 font-weight:800;
@@ -51,6 +50,18 @@ line-height: 24px;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
+
+.header-link:hover {
+color:#404bbf; 
+
+}
+
+.header-link:focus {
+color:#404bbf; 
+      
+   }
+
+
 
 .header-mail {
 font-family: 'Roboto';

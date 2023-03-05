@@ -13,11 +13,11 @@ body {
 }
 
 .header {
-font-style: normal
+  font-style: normal;
 }
 
 .header-address {
-    font-style: normal
+  font-style: normal;
 }
 
 .logo {
@@ -50,11 +50,11 @@ font-style: normal
 }
 
 .header-link:hover {
-  color:#404bbf;
+  color: #404bbf;
 }
 
 .header-link:focus {
-  color:#404bbf;
+  color: #404bbf;
 }
 
 .header-nav {
@@ -66,11 +66,11 @@ font-style: normal
 }
 
 .header-nav:hover {
-    color: #404bbf 
+  color: #404bbf;
 }
 
 .header-nav:focus {
-    color: #404bbf
+  color: #404bbf;
 }
 
 .hero {
@@ -85,6 +85,7 @@ font-style: normal
   color: #ffffff;
 }
 .btn-hero {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -93,13 +94,13 @@ font-style: normal
   letter-spacing: 0.04em;
   cursor: pointer;
   color: #ffffff;
-  background-color: #4D5AE5;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-border-radius: 4px;
+  background-color: #4d5ae5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
 }
 
 .btn-hero:is(:hover, :focus) {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 
 .strat-tittle {
@@ -129,13 +130,14 @@ border-radius: 4px;
 }
 
 .team {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .team-list-tittle {
-  background: #FFFFFF;
-box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-border-radius: 0px 0px 4px 4px;
+  background: #ffffff;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+  border-radius: 0px 0px 4px 4px;
 }
 
 .team-tittle {
@@ -169,14 +171,11 @@ border-radius: 0px 0px 4px 4px;
 }
 
 .studio-footer {
-font-weight: 800;
-font-size: 18px;
-line-height: 1.16;
-color:#f4f4fd;
-
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.16;
+  color: #f4f4fd;
 }
-
-
 
 .footer-p {
   font-weight: 400;
@@ -186,15 +185,16 @@ color:#f4f4fd;
 }
 
 .portfolio-btn {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
   color: #4d5ae5;
-  background: #F4F4FD;
-border: 1px solid #E7E9FC;
-border-radius: 4px;
+  background: #f4f4fd;
+  border: 1px solid #e7e9fc;
+  border-radius: 4px;
 }
 
 .portfolio-btn:is(:hover, :focus) {
